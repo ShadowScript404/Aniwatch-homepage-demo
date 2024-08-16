@@ -1,1 +1,3 @@
 # Aniwatch-homepage-demo
+Here i have created Aniwatch homepage design using htm and css only....
+it is simply a Anime website's homepage design.
